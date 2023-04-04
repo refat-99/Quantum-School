@@ -1,0 +1,9 @@
+.header-img{
+    height: 50px;
+    width: 60px;
+    border-radius: 25%;
+}
+.NavLink{
+    text-decoration: none;
+    padding-left: 10px;
+}

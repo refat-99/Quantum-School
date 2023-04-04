@@ -1,0 +1,12 @@
+.Slider img{
+    align-content: center;
+    height: 400px;
+    width: 90%;
+    margin-left: 6%;
+    background-color: rgb(9, 9, 80);
+    padding: 20px 0px 0px 0px;
+    
+}
+.Slider-Main{
+    background-color: rgb(9, 9, 80);
+}

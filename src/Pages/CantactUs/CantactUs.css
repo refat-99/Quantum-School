@@ -1,0 +1,30 @@
+.cantact-head{
+    background-color: #4F557E;
+    color: white;
+    text-align: left;
+    height: 100px;
+    padding-top: 20px;
+    padding-left: 75px;
+}
+.cantact-location{
+    background-color: #3E5AFB;
+    padding: 10px;
+    margin-top: 40px;
+}
+.cantact-email{
+    background-color: #FD7450;
+    padding: 10px;
+    margin-top: 40px;
+}
+.cantact-number{
+    background-color: #733EFB;
+    padding: 10px;
+    margin-top: 40px;
+}
+.form-col{
+    margin-top: 40px;
+    margin-left: 30px;
+    padding-left: 60px;
+   height: 400px;
+   width: 500px;
+}

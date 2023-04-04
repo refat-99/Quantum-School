@@ -1,0 +1,20 @@
+.footer-main{
+    text-align: left;
+    padding-top: 100px;
+    color: aqua;
+    
+    
+}
+.footer-full{
+    background-color: rgb(53, 14, 121);
+}
+.copyright{
+    background-color: rgb(9, 9, 80);
+    text-align: center;
+    color: rgb(251, 223, 223);
+}
+.foot-img{
+    height: 40px;
+    width: 60px;
+    border-radius: 10px;
+}
